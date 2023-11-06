@@ -262,7 +262,7 @@ template {
   background: linear-gradient(-45deg,
       #e8d8b9,
       #eccec5,
-      #a3e9eb,
+      rgb(202,237,242),
       #bdbdf0,
       #eec1ea);
   box-shadow: 0 0 5px rgb(66, 68, 68);
@@ -322,7 +322,7 @@ template {
 
 /* 个人信息Follow me按钮 */
 #aside-content>.card-widget.card-info>#card-info-btn {
-  background-color: #3eb8be;
+  background-color: rgb(66, 126, 185);
   border-radius: 8px;
 }
 
@@ -538,7 +538,6 @@ svg.icon {
   transition: .3s;
   top: -8px
 }
-
 /* 背景宇宙星光  */
 #universe{
     display: block;
